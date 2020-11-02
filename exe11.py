@@ -7,7 +7,7 @@ def main():
         for i in range(0, tamanho):
             print(string[i], end='')
         print("")
-        tamanho -=1
+        tamanho -= 1
 
 
 if __name__ == "__main__":
